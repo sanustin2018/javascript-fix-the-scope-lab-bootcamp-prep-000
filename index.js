@@ -30,4 +30,4 @@ var funkyFunction = function theFunk() {
   }
 }
 
-console.log(funkyFunction()())
+
