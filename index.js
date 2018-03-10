@@ -14,10 +14,3 @@ function add2(n) {
   return n + two
 }
 
-var funkyFunction = function theFunk() {
-  return function () {
-    return "FUNKY!"
-  }
-}
-
-console.log(funkyFunction()())
